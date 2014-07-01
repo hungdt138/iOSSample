@@ -44,6 +44,7 @@
         cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:simpleTableIdentifier];
     }
     cell.textLabel.text = [tableData objectAtIndex:indexPath.row];
+    cell.imageView.image = [UIImage imageNamed:@"creme_brelee.jpg"];
     return cell;
 }
 

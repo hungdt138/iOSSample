@@ -21,6 +21,7 @@
 		A4D5E8751962FFA300AE7C74 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4D5E8571962FFA200AE7C74 /* UIKit.framework */; };
 		A4D5E87D1962FFA300AE7C74 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A4D5E87B1962FFA300AE7C74 /* InfoPlist.strings */; };
 		A4D5E87F1962FFA300AE7C74 /* SimpleTableTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A4D5E87E1962FFA300AE7C74 /* SimpleTableTests.m */; };
+		A4D5E88919631F7E00AE7C74 /* creme_brelee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A4D5E88819631F7E00AE7C74 /* creme_brelee.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A4D5E87A1962FFA300AE7C74 /* SimpleTableTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SimpleTableTests-Info.plist"; sourceTree = "<group>"; };
 		A4D5E87C1962FFA300AE7C74 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A4D5E87E1962FFA300AE7C74 /* SimpleTableTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleTableTests.m; sourceTree = "<group>"; };
+		A4D5E88819631F7E00AE7C74 /* creme_brelee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = creme_brelee.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		A4D5E8591962FFA200AE7C74 /* SimpleTable */ = {
 			isa = PBXGroup;
 			children = (
+				A4D5E88819631F7E00AE7C74 /* creme_brelee.jpg */,
 				A4D5E8621962FFA300AE7C74 /* SimpleTableAppDelegate.h */,
 				A4D5E8631962FFA300AE7C74 /* SimpleTableAppDelegate.m */,
 				A4D5E8651962FFA300AE7C74 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4D5E86C1962FFA300AE7C74 /* Images.xcassets in Resources */,
+				A4D5E88919631F7E00AE7C74 /* creme_brelee.jpg in Resources */,
 				A4D5E85E1962FFA200AE7C74 /* InfoPlist.strings in Resources */,
 				A4D5E8671962FFA300AE7C74 /* Main.storyboard in Resources */,
 			);
